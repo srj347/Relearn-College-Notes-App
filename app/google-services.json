@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717090212621",
+    "project_id": "signin-dc623",
+    "storage_bucket": "signin-dc623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717090212621:android:ce4b7303a72c59c544be44",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717090212621-fia3cl2rf5tbntrjtpdde08upint50p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66y__CB47guzA2Fvx2uAcQ6KXcellCLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717090212621-fia3cl2rf5tbntrjtpdde08upint50p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

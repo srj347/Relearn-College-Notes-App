@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="16dp"
+    android:layout_marginStart="16dp"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/dashboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dashboard"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="160dp"
+         android:layout_height="160dp"
+        android:layout_gravity="center"
+        android:background="@drawable/person"/>
+
+
+    <TextView
+        android:id="@+id/dash_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sarvesh"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        />
+
+
+
+</LinearLayout>
